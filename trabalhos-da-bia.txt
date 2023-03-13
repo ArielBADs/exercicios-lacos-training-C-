@@ -1,0 +1,37 @@
+Bia é uma mulher muito suspeita, conhecida por oferecer serviços que deixam todos felizes. Certo dia Ana resolveu ler a mão da Bia e isso revelou um número X!
+
+Esse número é a quantidade de trabalhos que Bia precisará realizar ou ela será incapaz de jogar beach tênis.
+Ela também receberá diversos valores após realizar os serviços. Para ajudá-la você precisará informar o número
+fatorial mais próximo do valor total recebido, se não, coisas ruins acontecerão!
+
+Obs: Como 0!=1!, use apenas 0!
+
+Formato de entrada
+
+4
+
+200
+
+300
+
+400
+
+300
+
+Formato de saída
+
+Bia arrecadou 6! dinheiros e pode jogar tênis!
+
+Exemplos de:
+
+Entrada
+
+4
+200
+300
+400
+300
+
+Saída
+
+Bia arrecadou 6! dinheiros e pode jogar tenis!
