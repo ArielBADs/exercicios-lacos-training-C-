@@ -1,0 +1,59 @@
+Um viajante do tempo passado chamado Taylor, estava estudando séries, ele aprendeu a calcular áreas sobre uma curva quando
+estava estudando a Soma de Riemann e gostaria de comparar os resultados com seus estudos anteriores, ajude-o a criar um programa
+que calcule a área sobre a curva X^2 (X ao quadrado) utilizando retângulos, e compare o resultado com o número de Taylor.
+
+O método utilizado foi a Soma de Riemman à direita.
+
+É utilizado um somatório, no qual soma a área de N retângulos sobre a curva f(x) = X^2, onde X é A + Base.
+
+
+
+Observe o seguinte exemplo:
+Formato de entrada
+
+A entrada consiste em 2 linhas.
+
+Três números (float) A, B, N no qual A < B e N é o número de iterações da soma.
+Um número C (float) que é resultado dos estudos de Taylor.
+Obs: B, C, N > 0
+
+A >= 0
+
+Formato de saída
+
+A saída consiste em 3 condições:
+
+Se o resultado da soma for maior que C imprima "Maior".
+Caso os resultados forem iguais, imprima "Igual".
+Caso resultado da soma for menor que C imprima "Menor".
+Exemplos de:
+
+Entrada
+
+
+1 7 2
+195
+
+Saída
+
+Igual
+
+Entrada
+
+5 7 11
+84.237389
+
+Saída
+
+Menor
+
+Entrada
+
+1 2 4
+7
+
+Saída
+
+Menor
+
+((Acesse:"https://www.thehuxley.com/problem/4161?quizId=8262" para ler a questão completa))
